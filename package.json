@@ -1,0 +1,19 @@
+{
+  "name": "mon-bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.9.2",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1"
+  }
+}
